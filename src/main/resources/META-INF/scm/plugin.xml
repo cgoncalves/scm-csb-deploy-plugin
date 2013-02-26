@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+  <information>
+    <groupId>${project.groupId}</groupId>
+    <artifactId>${project.artifactId}</artifactId>
+    <version>${project.version}</version>
+    <name>${project.name}</name>
+    <description>${project.description}</description>
+    <!--
+    <author></author>
+    <url>${project.url}</url>
+    -->
+  </information>
+
+  <conditions>
+    <min-version>${project.parent.version}</min-version>
+  </conditions>
+
+  <packages>
+    <package>sonia.scm.plugins</package>
+  </packages>
+
+</plugin>
