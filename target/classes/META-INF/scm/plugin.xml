@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<plugin>
+
+  <information>
+    <groupId>sonia.scm.plugins</groupId>
+    <artifactId>scm-csb-deploy-plugin</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>scm-csb-deploy-plugin</name>
+    <description>plugin description</description>
+    <!--
+    <author></author>
+    <url>http://bitbucket.org/sdorra/scm-manager/scm-plugins/scm-csb-deploy-plugin</url>
+    -->
+  <url>http://bitbucket.org/sdorra/scm-manager/scm-plugins/scm-csb-deploy-plugin</url>
+</information>
+
+  <conditions>
+    <min-version>1.28</min-version>
+  </conditions>
+
+  <packages>
+    <package>sonia.scm.plugins</package>
+  </packages>
+
+</plugin>

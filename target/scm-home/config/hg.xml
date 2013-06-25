@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <disabled>false</disabled>
+    <repositoryDirectory>/Users/cgoncalves/Documents/Dropbox/IT/ATNoG/PI-CSB/scm/scm-csb-deploy-plugin/target/scm-home/repositories/hg</repositoryDirectory>
+    <encoding>UTF-8</encoding>
+    <hgBinary>hg</hgBinary>
+    <pythonBinary>python</pythonBinary>
+    <pythonPath>/usr/local/Cellar/mercurial/2.6.1/libexec</pythonPath>
+    <showRevisionInId>false</showRevisionInId>
+    <useOptimizedBytecode>false</useOptimizedBytecode>
+</config>

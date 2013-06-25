@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <disabled>false</disabled>
+    <repositoryDirectory>/Users/cgoncalves/Documents/Dropbox/IT/ATNoG/PI-CSB/scm/scm-csb-deploy-plugin/target/scm-home/repositories/svn</repositoryDirectory>
+    <enable-gzip>false</enable-gzip>
+    <compatibility>NONE</compatibility>
+</config>
